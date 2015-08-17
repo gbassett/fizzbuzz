@@ -9,7 +9,7 @@ namespace FizzBuzz
     class Program
     {
         static void Main(string[] args)
-        {
+        {   
             //printer numbers from 1 - 100
             for (int i = 1; i <= 100; i++)
             {
